@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋 My name is Lê Đức Nghĩa
+## About me
+- ⚡ I am studying at UIT
+- 😄 I’m interested in coding and web technologies
+- ✨ My future dream is becoming a Fullstack Developer
 <!--
 **ducnghia-sql/ducnghia-sql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
